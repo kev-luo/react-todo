@@ -14,6 +14,7 @@ created todo application using react
 
 ## Usage
 enter a new task and press enter. click any task to delete it
+[deployed site](https://kev-luo.github.io/react-todo/)
 
 ## License
 Licensed under the [MIT](https://opensource.org/licenses/MIT) License.
